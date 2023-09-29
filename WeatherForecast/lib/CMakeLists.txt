@@ -1,0 +1,1 @@
+add_library(BeautifulOutput fort.c fort.h fort.hpp)
